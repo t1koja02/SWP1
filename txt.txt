@@ -1,5 +1,5 @@
-rivi 1
-rivi 2x
+rivi 1z
+rivi 2
 rivi 3
 rivi 4
 rivi 5
